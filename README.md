@@ -18,6 +18,7 @@ A full-stack CRUD application built using React for the frontend, Flask for the 
 
 ## 🧪 How to Run
 1. Clone the repo:
+```bash
 git clone https://github.com/yourusername/fullstack-flask-react-app
 2. Navigate into frontend and backend folders
 3. Run backend server (Flask)
